@@ -31,7 +31,9 @@ numpy/PIL/PyQt/pickle
 训练好的参数保存在deepconvnet.pkl中
 为实现最终展示界面中多数字识别，实现了一个简单的图片分割函数，在components的img_split.py中
 
-
+参考：
+1.《深度学习入门》--【日】斋藤康毅
+2. https://github.com/hamlinzheng/mnist
 -----使用愉快-----
 
 
